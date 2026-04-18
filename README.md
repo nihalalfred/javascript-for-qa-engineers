@@ -1,3 +1,5 @@
+> A practical JavaScript learning path for QA Engineers transitioning into automation and engineering roles.
+
 # From Tester → Engineer
 
 The role of QA is evolving.
