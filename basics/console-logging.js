@@ -56,3 +56,9 @@ console.timeEnd("LoopExecution");
 let userLoggedIn = false;
 
 console.assert(userLoggedIn, "User is not logged in!");
+
+// ----------------------
+// Custom CSS Styling
+// ----------------------
+
+console.log("%c Styled Log", "color: green; font-weight: bold;");
