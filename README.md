@@ -11,7 +11,7 @@ This repo is based on:
 
 ## 1. From "Tester" to "Engineer"
 - The industry is moving away from purely manual validation. 
-- By mastering JavaScript and TypeScript, we stop being people who just "find bugs" and start being engineers who "build solutions."
+- By mastering JavaScript, we stop being people who "find bugs" and start being engineers who "build solutions."
 - This shift makes our roles more secure, more technical, and significantly more impactful.
 
 ## 2. The Power of "White-Box" Testing
