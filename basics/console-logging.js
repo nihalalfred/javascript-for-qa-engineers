@@ -57,6 +57,11 @@ let userLoggedIn = false;
 
 console.assert(userLoggedIn, "User is not logged in!");
 
+// Example: Validate API response
+const response = { status: 200 };
+
+console.assert(response.status === 200, "API failed!");
+
 // ----------------------
 // Custom CSS Styling
 // ----------------------
