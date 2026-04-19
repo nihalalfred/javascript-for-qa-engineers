@@ -16,8 +16,16 @@ console.error("Something went wrong");
 console.warn("Potential issue detected");
 
 // ----------------------
+// Custom CSS Styling
+// ----------------------
+
+console.log("%c Styled Log", "color: green; font-weight: bold;");
+
+// ----------------------
 // Structured Data Output
 // ----------------------
+
+// Tabular Data (Perfect for Arrays and Objects)
 
 const users = [
   { id: 1, name: "Alice", role: "Admin" },
@@ -61,9 +69,3 @@ console.assert(userLoggedIn, "User is not logged in!");
 const response = { status: 200 };
 
 console.assert(response.status === 200, "API failed!");
-
-// ----------------------
-// Custom CSS Styling
-// ----------------------
-
-console.log("%c Styled Log", "color: green; font-weight: bold;");
